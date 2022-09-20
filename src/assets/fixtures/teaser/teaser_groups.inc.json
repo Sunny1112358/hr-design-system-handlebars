@@ -22,7 +22,7 @@
             "hasGroupTitle": true,
             "groupTitle": "Akzentuier-Gruppe 100%, 1 x 100% ContentNav Aufklapp ",
             "teaserSize": "100",
-            "isHighlightGroup": true,
+            "isHighlightGroup": false,
             "accentedGroup" : true,
             "backgroundColor": "1",
             "logicItems": [
